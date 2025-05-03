@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Port Scanner  
 
-## 🔍 A simple multi-threaded port scanner that checks for open ports on a target IP address!  
+## 🔍 A multi-threaded port scanner that checks for open ports on a target IP address!  
 
 ![Port Scanner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanB2cG03eDhyZGJtdXQ2MTd1MGh3bThmb2Z0OXd3dm5keDU0cWhrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i9cngh3Kw09GxlsrFP/giphy.gif)  
 
