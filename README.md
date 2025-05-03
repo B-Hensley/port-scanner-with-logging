@@ -33,7 +33,7 @@ Make sure you have **Python 3.x** installed!
 ### 🏃‍♂️ Run the Scanner  
 
 ```bash
-git clone https://github.com/yourusername/PortScanner.git
+git clone https://github.com/B-Hensley/PortScanner.git
 cd PortScanner
 python port_scanner.py
 ```
